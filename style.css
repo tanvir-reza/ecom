@@ -1,0 +1,40 @@
+.orange-bg{
+    background-color: #FEEAE9;
+}
+.container{
+    margin-bottom: 60px;
+}
+.carousel{
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: red;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+.catagory{
+    margin-bottom: 20px;
+}
+.cat1, .cat2, .cat3{
+    
+    padding: 10px 30px;
+    border-radius: 31px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.catagory img{
+    width: 100px;
+}
+.catagory h1{
+    color: white;
+}
