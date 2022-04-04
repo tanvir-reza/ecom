@@ -4,6 +4,7 @@
 .container{
     margin-bottom: 60px;
 }
+
 .carousel{
     border-radius: 10px;
 }
@@ -37,4 +38,33 @@
 }
 .catagory h1{
     color: white;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card h3{
+    color: black;
+}
+.card .price{
+    margin-bottom: 10px;
+}
+.cat-h{
+    margin-bottom: 30px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.touch{
+   
+    background-color: #FEEAE9;
+    padding: 150px 30px;
+    border-radius: 20px;
+}
+footer{
+    text-align: center;
+}
+footer p{
+    font-size: 20px;
 }
